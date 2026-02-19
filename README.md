@@ -56,3 +56,5 @@ git push -u origin main
 ## 復習メモ（ここに追記して push の練習）
 
 - （例）2月○日: Git の add → commit → push の流れを復習した
+復習用のファイル作成、div、head、bodyの意味を知った
+gitにpushする練習をして覚える
